@@ -53,7 +53,7 @@ Lucas espera que o sistema de banco de horas seja fácil de usar, com uma interf
 
 ### 3. Diagrama Entidade Relacionamento
 
-![ER](https://github.com/VitorL-Dev/Banco-de-Horas/assets/138712602/28d722d1-d770-41e4-8a95-6582fdc4de21)
+![ER](https://github.com/VitorL-Dev/Banco-de-Horas/assets/138712602/ee58c774-c76d-4fd5-9f84-cfebd402dd11)
 
 ### 4. **Especificação de Requisitos Funcionais**
 

@@ -64,11 +64,11 @@ Lucas espera que o sistema de banco de horas seja fácil de usar, com uma interf
 | Data da Produção: | 07/07/2023 |
 | Data da Última Alteração: | 07/07/2023 |
 | Detalhamento: | O usuário poderá cadastrar projetos em que esteja trabalhando, dando ao sistemas informações como:
-- Nome do Projeto*;
-- Valor/hora*;
-- Data de Inicio do Projeto*;
-- Data de Limite de Entrega do Projeto;
-- Nome do Cliente*. |
+||- Nome do Projeto*;
+||- Valor/hora*;
+||- Data de Inicio do Projeto*;
+||- Data de Limite de Entrega do Projeto;
+||- Nome do Cliente*. |
 | Regras de Negocio: | 1. Caso o usuário não informe todas as informações necessárias para a criação do projeto, o sistema apresentará a seguinte mensagem: “Por favor, preencha todas as informações necessárias.”. |
 
 | ID e Nome: | [RF002] - Gerenciar Projetos |
